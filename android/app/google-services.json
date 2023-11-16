@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686693271100",
+    "project_id": "nephrol-ai",
+    "storage_bucket": "nephrol-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686693271100:android:c2c16bf6db025e21726539",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCurirB7cjPIu52mCKR_u_Fidkls5U4tLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
