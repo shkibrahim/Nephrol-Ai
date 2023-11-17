@@ -119,7 +119,7 @@ const textInputChange = (val) =>{
       else{
       try {
         // const response = await axios.post('http://10.0.2.2:8080/patient/login',data);
-        const response = await axios.post('http://192.168.0.169:8080/patient/login',data);
+        const response = await axios.post('http://192.168.100.14:8080/patient/login',data);
 
         console.log("This is response data " + JSON.stringify(response.data));
   
